@@ -1,0 +1,2134 @@
+('D:\\Code\\CS-000\\projects\\Sticky Note App\\build\\sticky_note\\PYZ-00.pyz',
+ [('__future__',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\__future__.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_colorize',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_colorize.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_compression.py',
+   'PYMODULE'),
+  ('_ios_support',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_ios_support.py',
+   'PYMODULE'),
+  ('_opcode_metadata',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_opcode_metadata.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_pydatetime',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_pydatetime.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_pyrepl',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_pyrepl\\__init__.py',
+   'PYMODULE'),
+  ('_pyrepl.pager',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_pyrepl\\pager.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_threading_local.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ast.py',
+   'PYMODULE'),
+  ('asyncio',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.mixins',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\mixins.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.taskgroups',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\taskgroups.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.timeouts',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\timeouts.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\base64.py',
+   'PYMODULE'),
+  ('bdb',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\bdb.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\bisect.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\bz2.py',
+   'PYMODULE'),
+  ('cachetools',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cachetools\\__init__.py',
+   'PYMODULE'),
+  ('cachetools.keys',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cachetools\\keys.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\calendar.py',
+   'PYMODULE'),
+  ('certifi',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\certifi\\__init__.py',
+   'PYMODULE'),
+  ('certifi.core',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\certifi\\core.py',
+   'PYMODULE'),
+  ('charset_normalizer',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\charset_normalizer\\__init__.py',
+   'PYMODULE'),
+  ('charset_normalizer.api',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\charset_normalizer\\api.py',
+   'PYMODULE'),
+  ('charset_normalizer.cd',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\charset_normalizer\\cd.py',
+   'PYMODULE'),
+  ('charset_normalizer.constant',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\charset_normalizer\\constant.py',
+   'PYMODULE'),
+  ('charset_normalizer.legacy',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\charset_normalizer\\legacy.py',
+   'PYMODULE'),
+  ('charset_normalizer.models',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\charset_normalizer\\models.py',
+   'PYMODULE'),
+  ('charset_normalizer.utils',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\charset_normalizer\\utils.py',
+   'PYMODULE'),
+  ('charset_normalizer.version',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\charset_normalizer\\version.py',
+   'PYMODULE'),
+  ('cmd',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\cmd.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\codeop.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\contextvars.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\copy.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\csv.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\datetime.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\decimal.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\difflib.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\dis.py',
+   'PYMODULE'),
+  ('doctest',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\doctest.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.mime',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\mime\\__init__.py',
+   'PYMODULE'),
+  ('email.mime.base',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\mime\\base.py',
+   'PYMODULE'),
+  ('email.mime.multipart',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\mime\\multipart.py',
+   'PYMODULE'),
+  ('email.mime.nonmultipart',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\mime\\nonmultipart.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\utils.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\fnmatch.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\fractions.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ftplib.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\getopt.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\getpass.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\gettext.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\glob.py',
+   'PYMODULE'),
+  ('google', '-', 'PYMODULE'),
+  ('google.api_core',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\api_core\\__init__.py',
+   'PYMODULE'),
+  ('google.api_core.client_options',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\api_core\\client_options.py',
+   'PYMODULE'),
+  ('google.api_core.universe',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\api_core\\universe.py',
+   'PYMODULE'),
+  ('google.api_core.version',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\api_core\\version.py',
+   'PYMODULE'),
+  ('google.api_core.version_header',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\api_core\\version_header.py',
+   'PYMODULE'),
+  ('google.auth',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\auth\\__init__.py',
+   'PYMODULE'),
+  ('google.auth._cloud_sdk',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\auth\\_cloud_sdk.py',
+   'PYMODULE'),
+  ('google.auth._credentials_base',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\auth\\_credentials_base.py',
+   'PYMODULE'),
+  ('google.auth._default',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\auth\\_default.py',
+   'PYMODULE'),
+  ('google.auth._exponential_backoff',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\auth\\_exponential_backoff.py',
+   'PYMODULE'),
+  ('google.auth._helpers',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\auth\\_helpers.py',
+   'PYMODULE'),
+  ('google.auth._refresh_worker',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\auth\\_refresh_worker.py',
+   'PYMODULE'),
+  ('google.auth._service_account_info',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\auth\\_service_account_info.py',
+   'PYMODULE'),
+  ('google.auth.api_key',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\auth\\api_key.py',
+   'PYMODULE'),
+  ('google.auth.app_engine',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\auth\\app_engine.py',
+   'PYMODULE'),
+  ('google.auth.aws',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\auth\\aws.py',
+   'PYMODULE'),
+  ('google.auth.compute_engine',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\auth\\compute_engine\\__init__.py',
+   'PYMODULE'),
+  ('google.auth.compute_engine._metadata',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\auth\\compute_engine\\_metadata.py',
+   'PYMODULE'),
+  ('google.auth.compute_engine.credentials',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\auth\\compute_engine\\credentials.py',
+   'PYMODULE'),
+  ('google.auth.credentials',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\auth\\credentials.py',
+   'PYMODULE'),
+  ('google.auth.crypt',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\auth\\crypt\\__init__.py',
+   'PYMODULE'),
+  ('google.auth.crypt._cryptography_rsa',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\auth\\crypt\\_cryptography_rsa.py',
+   'PYMODULE'),
+  ('google.auth.crypt._python_rsa',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\auth\\crypt\\_python_rsa.py',
+   'PYMODULE'),
+  ('google.auth.crypt.base',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\auth\\crypt\\base.py',
+   'PYMODULE'),
+  ('google.auth.crypt.es256',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\auth\\crypt\\es256.py',
+   'PYMODULE'),
+  ('google.auth.crypt.rsa',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\auth\\crypt\\rsa.py',
+   'PYMODULE'),
+  ('google.auth.environment_vars',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\auth\\environment_vars.py',
+   'PYMODULE'),
+  ('google.auth.exceptions',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\auth\\exceptions.py',
+   'PYMODULE'),
+  ('google.auth.external_account',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\auth\\external_account.py',
+   'PYMODULE'),
+  ('google.auth.external_account_authorized_user',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\auth\\external_account_authorized_user.py',
+   'PYMODULE'),
+  ('google.auth.iam',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\auth\\iam.py',
+   'PYMODULE'),
+  ('google.auth.identity_pool',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\auth\\identity_pool.py',
+   'PYMODULE'),
+  ('google.auth.impersonated_credentials',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\auth\\impersonated_credentials.py',
+   'PYMODULE'),
+  ('google.auth.jwt',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\auth\\jwt.py',
+   'PYMODULE'),
+  ('google.auth.metrics',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\auth\\metrics.py',
+   'PYMODULE'),
+  ('google.auth.pluggable',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\auth\\pluggable.py',
+   'PYMODULE'),
+  ('google.auth.transport',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\auth\\transport\\__init__.py',
+   'PYMODULE'),
+  ('google.auth.transport._custom_tls_signer',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\auth\\transport\\_custom_tls_signer.py',
+   'PYMODULE'),
+  ('google.auth.transport._http_client',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\auth\\transport\\_http_client.py',
+   'PYMODULE'),
+  ('google.auth.transport._mtls_helper',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\auth\\transport\\_mtls_helper.py',
+   'PYMODULE'),
+  ('google.auth.transport.mtls',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\auth\\transport\\mtls.py',
+   'PYMODULE'),
+  ('google.auth.transport.requests',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\auth\\transport\\requests.py',
+   'PYMODULE'),
+  ('google.auth.version',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\auth\\version.py',
+   'PYMODULE'),
+  ('google.oauth2',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\oauth2\\__init__.py',
+   'PYMODULE'),
+  ('google.oauth2._client',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\oauth2\\_client.py',
+   'PYMODULE'),
+  ('google.oauth2.challenges',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\oauth2\\challenges.py',
+   'PYMODULE'),
+  ('google.oauth2.credentials',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\oauth2\\credentials.py',
+   'PYMODULE'),
+  ('google.oauth2.gdch_credentials',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\oauth2\\gdch_credentials.py',
+   'PYMODULE'),
+  ('google.oauth2.reauth',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\oauth2\\reauth.py',
+   'PYMODULE'),
+  ('google.oauth2.service_account',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\oauth2\\service_account.py',
+   'PYMODULE'),
+  ('google.oauth2.sts',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\oauth2\\sts.py',
+   'PYMODULE'),
+  ('google.oauth2.utils',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\oauth2\\utils.py',
+   'PYMODULE'),
+  ('google.oauth2.webauthn_handler',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\oauth2\\webauthn_handler.py',
+   'PYMODULE'),
+  ('google.oauth2.webauthn_handler_factory',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\oauth2\\webauthn_handler_factory.py',
+   'PYMODULE'),
+  ('google.oauth2.webauthn_types',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google\\oauth2\\webauthn_types.py',
+   'PYMODULE'),
+  ('google_auth_httplib2',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google_auth_httplib2.py',
+   'PYMODULE'),
+  ('google_auth_oauthlib',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google_auth_oauthlib\\__init__.py',
+   'PYMODULE'),
+  ('google_auth_oauthlib.flow',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google_auth_oauthlib\\flow.py',
+   'PYMODULE'),
+  ('google_auth_oauthlib.helpers',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google_auth_oauthlib\\helpers.py',
+   'PYMODULE'),
+  ('google_auth_oauthlib.interactive',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\google_auth_oauthlib\\interactive.py',
+   'PYMODULE'),
+  ('googleapiclient',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\googleapiclient\\__init__.py',
+   'PYMODULE'),
+  ('googleapiclient._auth',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\googleapiclient\\_auth.py',
+   'PYMODULE'),
+  ('googleapiclient._helpers',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\googleapiclient\\_helpers.py',
+   'PYMODULE'),
+  ('googleapiclient.discovery',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\googleapiclient\\discovery.py',
+   'PYMODULE'),
+  ('googleapiclient.discovery_cache',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\googleapiclient\\discovery_cache\\__init__.py',
+   'PYMODULE'),
+  ('googleapiclient.discovery_cache.appengine_memcache',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\googleapiclient\\discovery_cache\\appengine_memcache.py',
+   'PYMODULE'),
+  ('googleapiclient.discovery_cache.base',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\googleapiclient\\discovery_cache\\base.py',
+   'PYMODULE'),
+  ('googleapiclient.discovery_cache.file_cache',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\googleapiclient\\discovery_cache\\file_cache.py',
+   'PYMODULE'),
+  ('googleapiclient.errors',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\googleapiclient\\errors.py',
+   'PYMODULE'),
+  ('googleapiclient.http',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\googleapiclient\\http.py',
+   'PYMODULE'),
+  ('googleapiclient.mimeparse',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\googleapiclient\\mimeparse.py',
+   'PYMODULE'),
+  ('googleapiclient.model',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\googleapiclient\\model.py',
+   'PYMODULE'),
+  ('googleapiclient.schema',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\googleapiclient\\schema.py',
+   'PYMODULE'),
+  ('googleapiclient.version',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\googleapiclient\\version.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\gzip.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\hashlib.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\hmac.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\html\\entities.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\http\\client.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http.cookies',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\http\\cookies.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\http\\server.py',
+   'PYMODULE'),
+  ('httplib2',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\httplib2\\__init__.py',
+   'PYMODULE'),
+  ('httplib2.auth',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\httplib2\\auth.py',
+   'PYMODULE'),
+  ('httplib2.certs',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\httplib2\\certs.py',
+   'PYMODULE'),
+  ('httplib2.error',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\httplib2\\error.py',
+   'PYMODULE'),
+  ('httplib2.iri2uri',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\httplib2\\iri2uri.py',
+   'PYMODULE'),
+  ('httplib2.socks',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\httplib2\\socks.py',
+   'PYMODULE'),
+  ('idna',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\idna\\__init__.py',
+   'PYMODULE'),
+  ('idna.core',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\idna\\core.py',
+   'PYMODULE'),
+  ('idna.idnadata',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\idna\\idnadata.py',
+   'PYMODULE'),
+  ('idna.intranges',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\idna\\intranges.py',
+   'PYMODULE'),
+  ('idna.package_data',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\idna\\package_data.py',
+   'PYMODULE'),
+  ('idna.uts46data',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\idna\\uts46data.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\resources\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\resources\\_common.py',
+   'PYMODULE'),
+  ('importlib.resources._functional',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\resources\\_functional.py',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\resources\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\resources\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\resources\\readers.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\inspect.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ipaddress.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('keyboard',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\keyboard\\__init__.py',
+   'PYMODULE'),
+  ('keyboard._canonical_names',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\keyboard\\_canonical_names.py',
+   'PYMODULE'),
+  ('keyboard._darwinkeyboard',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\keyboard\\_darwinkeyboard.py',
+   'PYMODULE'),
+  ('keyboard._generic',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\keyboard\\_generic.py',
+   'PYMODULE'),
+  ('keyboard._keyboard_event',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\keyboard\\_keyboard_event.py',
+   'PYMODULE'),
+  ('keyboard._nixcommon',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\keyboard\\_nixcommon.py',
+   'PYMODULE'),
+  ('keyboard._nixkeyboard',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\keyboard\\_nixkeyboard.py',
+   'PYMODULE'),
+  ('keyboard._winkeyboard',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\keyboard\\_winkeyboard.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\lzma.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\mimetypes.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\netrc.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\nturl2path.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\numbers.py',
+   'PYMODULE'),
+  ('oauthlib',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\oauthlib\\__init__.py',
+   'PYMODULE'),
+  ('oauthlib.common',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\oauthlib\\common.py',
+   'PYMODULE'),
+  ('oauthlib.oauth1',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\oauthlib\\oauth1\\__init__.py',
+   'PYMODULE'),
+  ('oauthlib.oauth1.rfc5849',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\oauthlib\\oauth1\\rfc5849\\__init__.py',
+   'PYMODULE'),
+  ('oauthlib.oauth1.rfc5849.endpoints',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\oauthlib\\oauth1\\rfc5849\\endpoints\\__init__.py',
+   'PYMODULE'),
+  ('oauthlib.oauth1.rfc5849.endpoints.access_token',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\oauthlib\\oauth1\\rfc5849\\endpoints\\access_token.py',
+   'PYMODULE'),
+  ('oauthlib.oauth1.rfc5849.endpoints.authorization',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\oauthlib\\oauth1\\rfc5849\\endpoints\\authorization.py',
+   'PYMODULE'),
+  ('oauthlib.oauth1.rfc5849.endpoints.base',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\oauthlib\\oauth1\\rfc5849\\endpoints\\base.py',
+   'PYMODULE'),
+  ('oauthlib.oauth1.rfc5849.endpoints.pre_configured',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\oauthlib\\oauth1\\rfc5849\\endpoints\\pre_configured.py',
+   'PYMODULE'),
+  ('oauthlib.oauth1.rfc5849.endpoints.request_token',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\oauthlib\\oauth1\\rfc5849\\endpoints\\request_token.py',
+   'PYMODULE'),
+  ('oauthlib.oauth1.rfc5849.endpoints.resource',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\oauthlib\\oauth1\\rfc5849\\endpoints\\resource.py',
+   'PYMODULE'),
+  ('oauthlib.oauth1.rfc5849.endpoints.signature_only',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\oauthlib\\oauth1\\rfc5849\\endpoints\\signature_only.py',
+   'PYMODULE'),
+  ('oauthlib.oauth1.rfc5849.errors',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\oauthlib\\oauth1\\rfc5849\\errors.py',
+   'PYMODULE'),
+  ('oauthlib.oauth1.rfc5849.parameters',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\oauthlib\\oauth1\\rfc5849\\parameters.py',
+   'PYMODULE'),
+  ('oauthlib.oauth1.rfc5849.request_validator',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\oauthlib\\oauth1\\rfc5849\\request_validator.py',
+   'PYMODULE'),
+  ('oauthlib.oauth1.rfc5849.signature',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\oauthlib\\oauth1\\rfc5849\\signature.py',
+   'PYMODULE'),
+  ('oauthlib.oauth1.rfc5849.utils',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\oauthlib\\oauth1\\rfc5849\\utils.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\oauthlib\\oauth2\\__init__.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\__init__.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.clients',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\clients\\__init__.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.clients.backend_application',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\clients\\backend_application.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.clients.base',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\clients\\base.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.clients.legacy_application',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\clients\\legacy_application.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.clients.mobile_application',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\clients\\mobile_application.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.clients.service_application',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\clients\\service_application.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.clients.web_application',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\clients\\web_application.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.endpoints',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\endpoints\\__init__.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.endpoints.authorization',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\endpoints\\authorization.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.endpoints.base',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\endpoints\\base.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.endpoints.introspect',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\endpoints\\introspect.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.endpoints.metadata',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\endpoints\\metadata.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.endpoints.pre_configured',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\endpoints\\pre_configured.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.endpoints.resource',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\endpoints\\resource.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.endpoints.revocation',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\endpoints\\revocation.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.endpoints.token',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\endpoints\\token.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.errors',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\errors.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.grant_types',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\grant_types\\__init__.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.grant_types.authorization_code',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\grant_types\\authorization_code.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.grant_types.base',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\grant_types\\base.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.grant_types.client_credentials',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\grant_types\\client_credentials.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.grant_types.implicit',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\grant_types\\implicit.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.grant_types.refresh_token',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\grant_types\\refresh_token.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.grant_types.resource_owner_password_credentials',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\grant_types\\resource_owner_password_credentials.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.parameters',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\parameters.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.request_validator',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\request_validator.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.tokens',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\tokens.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc6749.utils',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\oauthlib\\oauth2\\rfc6749\\utils.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc8628',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\oauthlib\\oauth2\\rfc8628\\__init__.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc8628.clients',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\oauthlib\\oauth2\\rfc8628\\clients\\__init__.py',
+   'PYMODULE'),
+  ('oauthlib.oauth2.rfc8628.clients.device',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\oauthlib\\oauth2\\rfc8628\\clients\\device.py',
+   'PYMODULE'),
+  ('oauthlib.signals',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\oauthlib\\signals.py',
+   'PYMODULE'),
+  ('oauthlib.uri_validate',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\oauthlib\\uri_validate.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\opcode.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pathlib\\__init__.py',
+   'PYMODULE'),
+  ('pathlib._abc',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pathlib\\_abc.py',
+   'PYMODULE'),
+  ('pathlib._local',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pathlib\\_local.py',
+   'PYMODULE'),
+  ('pdb',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pdb.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pickle.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pkgutil.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\platform.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pprint.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\py_compile.py',
+   'PYMODULE'),
+  ('pyasn1',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyasn1\\__init__.py',
+   'PYMODULE'),
+  ('pyasn1.codec',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyasn1\\codec\\__init__.py',
+   'PYMODULE'),
+  ('pyasn1.codec.ber',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyasn1\\codec\\ber\\__init__.py',
+   'PYMODULE'),
+  ('pyasn1.codec.ber.decoder',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyasn1\\codec\\ber\\decoder.py',
+   'PYMODULE'),
+  ('pyasn1.codec.ber.encoder',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyasn1\\codec\\ber\\encoder.py',
+   'PYMODULE'),
+  ('pyasn1.codec.ber.eoo',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyasn1\\codec\\ber\\eoo.py',
+   'PYMODULE'),
+  ('pyasn1.codec.cer',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyasn1\\codec\\cer\\__init__.py',
+   'PYMODULE'),
+  ('pyasn1.codec.cer.decoder',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyasn1\\codec\\cer\\decoder.py',
+   'PYMODULE'),
+  ('pyasn1.codec.cer.encoder',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyasn1\\codec\\cer\\encoder.py',
+   'PYMODULE'),
+  ('pyasn1.codec.der',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyasn1\\codec\\der\\__init__.py',
+   'PYMODULE'),
+  ('pyasn1.codec.der.decoder',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyasn1\\codec\\der\\decoder.py',
+   'PYMODULE'),
+  ('pyasn1.codec.der.encoder',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyasn1\\codec\\der\\encoder.py',
+   'PYMODULE'),
+  ('pyasn1.codec.streaming',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyasn1\\codec\\streaming.py',
+   'PYMODULE'),
+  ('pyasn1.compat',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyasn1\\compat\\__init__.py',
+   'PYMODULE'),
+  ('pyasn1.compat.integer',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyasn1\\compat\\integer.py',
+   'PYMODULE'),
+  ('pyasn1.debug',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyasn1\\debug.py',
+   'PYMODULE'),
+  ('pyasn1.error',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyasn1\\error.py',
+   'PYMODULE'),
+  ('pyasn1.type',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyasn1\\type\\__init__.py',
+   'PYMODULE'),
+  ('pyasn1.type.base',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyasn1\\type\\base.py',
+   'PYMODULE'),
+  ('pyasn1.type.char',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyasn1\\type\\char.py',
+   'PYMODULE'),
+  ('pyasn1.type.constraint',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyasn1\\type\\constraint.py',
+   'PYMODULE'),
+  ('pyasn1.type.error',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyasn1\\type\\error.py',
+   'PYMODULE'),
+  ('pyasn1.type.namedtype',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyasn1\\type\\namedtype.py',
+   'PYMODULE'),
+  ('pyasn1.type.namedval',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyasn1\\type\\namedval.py',
+   'PYMODULE'),
+  ('pyasn1.type.opentype',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyasn1\\type\\opentype.py',
+   'PYMODULE'),
+  ('pyasn1.type.tag',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyasn1\\type\\tag.py',
+   'PYMODULE'),
+  ('pyasn1.type.tagmap',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyasn1\\type\\tagmap.py',
+   'PYMODULE'),
+  ('pyasn1.type.univ',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyasn1\\type\\univ.py',
+   'PYMODULE'),
+  ('pyasn1.type.useful',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyasn1\\type\\useful.py',
+   'PYMODULE'),
+  ('pyasn1_modules',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyasn1_modules\\__init__.py',
+   'PYMODULE'),
+  ('pyasn1_modules.pem',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyasn1_modules\\pem.py',
+   'PYMODULE'),
+  ('pyasn1_modules.rfc2251',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyasn1_modules\\rfc2251.py',
+   'PYMODULE'),
+  ('pyasn1_modules.rfc2459',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyasn1_modules\\rfc2459.py',
+   'PYMODULE'),
+  ('pyasn1_modules.rfc5208',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyasn1_modules\\rfc5208.py',
+   'PYMODULE'),
+  ('pydoc',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pydoc.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pyparsing',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyparsing\\__init__.py',
+   'PYMODULE'),
+  ('pyparsing.actions',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyparsing\\actions.py',
+   'PYMODULE'),
+  ('pyparsing.common',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyparsing\\common.py',
+   'PYMODULE'),
+  ('pyparsing.core',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyparsing\\core.py',
+   'PYMODULE'),
+  ('pyparsing.diagram',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyparsing\\diagram\\__init__.py',
+   'PYMODULE'),
+  ('pyparsing.exceptions',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyparsing\\exceptions.py',
+   'PYMODULE'),
+  ('pyparsing.helpers',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyparsing\\helpers.py',
+   'PYMODULE'),
+  ('pyparsing.results',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyparsing\\results.py',
+   'PYMODULE'),
+  ('pyparsing.testing',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyparsing\\testing.py',
+   'PYMODULE'),
+  ('pyparsing.unicode',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyparsing\\unicode.py',
+   'PYMODULE'),
+  ('pyparsing.util',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyparsing\\util.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\queue.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\random.py',
+   'PYMODULE'),
+  ('requests',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\__init__.py',
+   'PYMODULE'),
+  ('requests.__version__',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\__version__.py',
+   'PYMODULE'),
+  ('requests._internal_utils',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\_internal_utils.py',
+   'PYMODULE'),
+  ('requests.adapters',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\adapters.py',
+   'PYMODULE'),
+  ('requests.api',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\api.py',
+   'PYMODULE'),
+  ('requests.auth',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\auth.py',
+   'PYMODULE'),
+  ('requests.certs',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\certs.py',
+   'PYMODULE'),
+  ('requests.compat',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\compat.py',
+   'PYMODULE'),
+  ('requests.cookies',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\cookies.py',
+   'PYMODULE'),
+  ('requests.exceptions',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\exceptions.py',
+   'PYMODULE'),
+  ('requests.hooks',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\hooks.py',
+   'PYMODULE'),
+  ('requests.models',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\models.py',
+   'PYMODULE'),
+  ('requests.packages',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\packages.py',
+   'PYMODULE'),
+  ('requests.sessions',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\sessions.py',
+   'PYMODULE'),
+  ('requests.status_codes',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\status_codes.py',
+   'PYMODULE'),
+  ('requests.structures',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\structures.py',
+   'PYMODULE'),
+  ('requests.utils',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\utils.py',
+   'PYMODULE'),
+  ('requests_oauthlib',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests_oauthlib\\__init__.py',
+   'PYMODULE'),
+  ('requests_oauthlib.oauth1_auth',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests_oauthlib\\oauth1_auth.py',
+   'PYMODULE'),
+  ('requests_oauthlib.oauth1_session',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests_oauthlib\\oauth1_session.py',
+   'PYMODULE'),
+  ('requests_oauthlib.oauth2_auth',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests_oauthlib\\oauth2_auth.py',
+   'PYMODULE'),
+  ('requests_oauthlib.oauth2_session',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests_oauthlib\\oauth2_session.py',
+   'PYMODULE'),
+  ('rlcompleter',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\rlcompleter.py',
+   'PYMODULE'),
+  ('rsa',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rsa\\__init__.py',
+   'PYMODULE'),
+  ('rsa.asn1',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rsa\\asn1.py',
+   'PYMODULE'),
+  ('rsa.common',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rsa\\common.py',
+   'PYMODULE'),
+  ('rsa.core',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rsa\\core.py',
+   'PYMODULE'),
+  ('rsa.key',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rsa\\key.py',
+   'PYMODULE'),
+  ('rsa.parallel',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rsa\\parallel.py',
+   'PYMODULE'),
+  ('rsa.pem',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rsa\\pem.py',
+   'PYMODULE'),
+  ('rsa.pkcs1',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rsa\\pkcs1.py',
+   'PYMODULE'),
+  ('rsa.prime',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rsa\\prime.py',
+   'PYMODULE'),
+  ('rsa.randnum',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rsa\\randnum.py',
+   'PYMODULE'),
+  ('rsa.transform',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\rsa\\transform.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\runpy.py',
+   'PYMODULE'),
+  ('secrets',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\secrets.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\selectors.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\shlex.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\signal.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\socket.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\socketserver.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ssl.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\statistics.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\string.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\subprocess.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\sysconfig\\__init__.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\threading.py',
+   'PYMODULE'),
+  ('tkinter',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tokenize.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('tty',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tty.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\typing.py',
+   'PYMODULE'),
+  ('typing_extensions',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\typing_extensions.py',
+   'PYMODULE'),
+  ('unittest',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest._log',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\unittest\\_log.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('uritemplate',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\uritemplate\\__init__.py',
+   'PYMODULE'),
+  ('uritemplate.api',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\uritemplate\\api.py',
+   'PYMODULE'),
+  ('uritemplate.orderedset',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\uritemplate\\orderedset.py',
+   'PYMODULE'),
+  ('uritemplate.template',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\uritemplate\\template.py',
+   'PYMODULE'),
+  ('uritemplate.variable',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\uritemplate\\variable.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib3',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\__init__.py',
+   'PYMODULE'),
+  ('urllib3._collections',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\_collections.py',
+   'PYMODULE'),
+  ('urllib3._version',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\_version.py',
+   'PYMODULE'),
+  ('urllib3.connection',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\connection.py',
+   'PYMODULE'),
+  ('urllib3.connectionpool',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\connectionpool.py',
+   'PYMODULE'),
+  ('urllib3.contrib',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\contrib\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib._appengine_environ',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\contrib\\_appengine_environ.py',
+   'PYMODULE'),
+  ('urllib3.contrib.pyopenssl',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\contrib\\pyopenssl.py',
+   'PYMODULE'),
+  ('urllib3.contrib.socks',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\contrib\\socks.py',
+   'PYMODULE'),
+  ('urllib3.exceptions',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\exceptions.py',
+   'PYMODULE'),
+  ('urllib3.fields',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\fields.py',
+   'PYMODULE'),
+  ('urllib3.filepost',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\filepost.py',
+   'PYMODULE'),
+  ('urllib3.packages',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\packages\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.packages.backports',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\packages\\backports\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.packages.backports.makefile',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\packages\\backports\\makefile.py',
+   'PYMODULE'),
+  ('urllib3.packages.backports.weakref_finalize',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\packages\\backports\\weakref_finalize.py',
+   'PYMODULE'),
+  ('urllib3.packages.six',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\packages\\six.py',
+   'PYMODULE'),
+  ('urllib3.poolmanager',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\poolmanager.py',
+   'PYMODULE'),
+  ('urllib3.request',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\request.py',
+   'PYMODULE'),
+  ('urllib3.response',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\response.py',
+   'PYMODULE'),
+  ('urllib3.util',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\util\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.util.connection',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\util\\connection.py',
+   'PYMODULE'),
+  ('urllib3.util.proxy',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\util\\proxy.py',
+   'PYMODULE'),
+  ('urllib3.util.queue',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\util\\queue.py',
+   'PYMODULE'),
+  ('urllib3.util.request',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\util\\request.py',
+   'PYMODULE'),
+  ('urllib3.util.response',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\util\\response.py',
+   'PYMODULE'),
+  ('urllib3.util.retry',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\util\\retry.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\util\\ssl_.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_match_hostname',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\util\\ssl_match_hostname.py',
+   'PYMODULE'),
+  ('urllib3.util.ssltransport',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\util\\ssltransport.py',
+   'PYMODULE'),
+  ('urllib3.util.timeout',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\util\\timeout.py',
+   'PYMODULE'),
+  ('urllib3.util.url',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\util\\url.py',
+   'PYMODULE'),
+  ('urllib3.util.wait',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\util\\wait.py',
+   'PYMODULE'),
+  ('uuid',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\uuid.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\webbrowser.py',
+   'PYMODULE'),
+  ('wsgiref',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\wsgiref\\__init__.py',
+   'PYMODULE'),
+  ('wsgiref.handlers',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\wsgiref\\handlers.py',
+   'PYMODULE'),
+  ('wsgiref.headers',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\wsgiref\\headers.py',
+   'PYMODULE'),
+  ('wsgiref.simple_server',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\wsgiref\\simple_server.py',
+   'PYMODULE'),
+  ('wsgiref.util',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\wsgiref\\util.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\zipfile\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\zipfile\\_path\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path.glob',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\zipfile\\_path\\glob.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Users\\WALTON AVIAN '
+   'EX\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\zipimport.py',
+   'PYMODULE')])
